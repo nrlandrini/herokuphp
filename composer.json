@@ -1,0 +1,14 @@
+{
+    "name": "nrlandrini/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Nurul Andrini Binte Sulaimi",
+        "email": "21021749@myp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
